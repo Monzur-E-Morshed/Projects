@@ -68,21 +68,25 @@
 .headerright div ul li a svg#one{
 	background-color:#243388;
 	padding: 2px 7px;
+	margin-right:5px;
 }
 
 .headerright div ul li a svg#two{
 	background-color:#2196F3;
 	padding: 2px 3px;
+	margin-right:5px;
 }
 
 .headerright div ul li a svg#three{
 	background-color:#3F51B5;
 	padding: 2px 5px;
+	margin-right:5px;
 }
 
 .headerright div ul li a svg#four{
 	background-color:#A51A13;
 	padding: 2px 3px;
+	margin-right:5px;
 }
 
 .headerright div ul li a svg{
