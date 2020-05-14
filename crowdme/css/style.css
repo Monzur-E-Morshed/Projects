@@ -217,7 +217,7 @@ body{
 /* Feature section start here */
 
 .feature_bg{
-	background-color: white
+	background-color: white;
 }
 
 .feature_project{
@@ -270,7 +270,6 @@ body{
 }
 
 .feature_top_right button a{
-
 text-decoration: none;
 color:#8F8F8F;
 }
@@ -306,7 +305,6 @@ color:#8F8F8F;
 }
 
 .feature_sec{
-	
 	padding: 0px 28px;
 }
 
@@ -322,7 +320,7 @@ color:#8F8F8F;
 .feature_sec p:nth-child(2){
 	font-size: 14px;
 	color:#8B8B8B;
-	margin-bottom: 80px;
+	margin-bottom: 60px;
 }
 
 
